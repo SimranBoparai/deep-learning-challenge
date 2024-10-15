@@ -1,11 +1,5 @@
-Week 21 Assignment
-# Deep Learning Challenge 
+Deep Learning Challenge 
 
-
-# Table of Contents
-
-- [Deep Learning Challenge](#deep-learning-challenge)
-- [Table of Contents](#table-of-contents)
 - [Challenge Overview](#challenge-overview)
 - [Prerequisites](#prerequisites)
   - [Required Tools](#required-tools)
