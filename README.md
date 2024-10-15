@@ -1,5 +1,7 @@
 Deep Learning Challenge 
 
+# Table of Contents
+- [Table of Contents](#table-of-contents)
 - [Challenge Overview](#challenge-overview)
 - [Prerequisites](#prerequisites)
   - [Required Tools](#required-tools)
