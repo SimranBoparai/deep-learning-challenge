@@ -96,7 +96,7 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, random_state=42)
 # Analysis
 
 Overview of the Analysis:
-- The purpose of this analysis is to create a neural network model that can predict whether an organization will be successful or not when effectively using the funds given by Alphabet Soup. This is a classification mdoel to predict the success of the organization considering severa features like application type, requested funding amount, etc. The goal is to optimize the baseline model to obtain an accuracy of 75% or higher.
+  The purpose of this analysis is to create a neural network model that can predict whether an organization will be successful or not when effectively using the funds given by Alphabet Soup. This is a classification mdoel to predict the success of the organization considering severa features like application type, requested funding amount, etc. The goal is to optimize the baseline model to obtain an accuracy of 75% or higher.
 
 Data Preprocessing:
 - The target variable is ```IS_SUCCESSFUL```. 
